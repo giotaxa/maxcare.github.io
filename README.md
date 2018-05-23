@@ -1,7 +1,5 @@
 ## Welcome to Maxcare Pages
 
-You can use the [editor on GitHub](https://github.com/giotaxa/maxcare.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 Human mistakes lead often to environmental destructions, such as fire or water and land pollution from toxic and poisonous acids. Such incidents increase the worldwide interest; those accidents threaten the environment and the public health, so that human life is now in danger.
 
 ### MAXCARE PHILOSOFHY
