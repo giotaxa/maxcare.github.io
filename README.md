@@ -1,4 +1,4 @@
-## Welcome to Maxcare Pages
+## Welcome to Maxcare
 
 Human mistakes lead often to environmental destructions, such as fire or water and land pollution from toxic and poisonous acids. Such incidents increase the worldwide interest; those accidents threaten the environment and the public health, so that human life is now in danger.
 
