@@ -1,15 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Maxcare Pages
 
 You can use the [editor on GitHub](https://github.com/giotaxa/maxcare.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Human mistakes lead often to environmental destructions, such as fire or water and land pollution from toxic and poisonous acids. Such incidents increase the worldwide interest; those accidents threaten the environment and the public health, so that human life is now in danger.
 
-### Markdown
+### MAXCARE PHILOSOFHY
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prevention is the answer for a normal and secure working life. The right equipment for any kind of job-type, as well as the prompt and concrete encounter in case of an accident is the most important step, which should be taken under consideration. When an accident happens it should be instantly recovered by rescue -/ cleaning operations, as well as by recovery of damages.
 
-```markdown
-Syntax highlighted code block
+
+It is compulsory for workmen, who participate in such operations and come in touch with dangerous elements to protect themselves by using the right safety equipment.
+
+
+Maxcare Co. takes care of modern industrial workman and offers a huge product-range, which is being tested from special organizations, which can certify their quality. All products are being tested under adverse circumstances, in order to be able to meet the most demanding needs.
+
+
+Workmen in Greece take responsibilities on safety matters and develop their working circumstances. Maxcare Co. can certify and support this new reality.
 
 # Header 1
 ## Header 2
@@ -34,4 +40,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Address:Mitr. Grigoriou 37
+
+Post Code:38334
+
+Region:Magnesia
+
+Country:Greece
+
+Phone 1:(+30) 24210 21537
+
+e-mail:info@maxcare.gr
+
+Contact schedule:
+Monday to Friday
+09:00-16:00
